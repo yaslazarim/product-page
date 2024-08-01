@@ -1,0 +1,61 @@
+.header-wrapper{
+    display: flex;
+    align-items: center;
+    font-family: "Mukta", sans-serif;
+    margin: 33px 40px 0px 40px;
+}
+
+.name-site{
+    color: #1565C0;
+    font-size: 24px;
+    margin-right: 150px;
+}
+
+.navigation{
+    display: flex;
+    align-items: center;
+}
+
+.navigation img{
+    width: 12px;
+    height: 12px;
+    margin-left: 2px;
+}
+
+.navigation .-buttons{
+    margin-right: 20px;
+    color: #474747;
+    font-size: 20px;
+}
+
+.search-container{
+    display: flex;
+    border: 1px solid #C4C4C4;
+    border-radius: 10px;
+    align-items: center;
+    margin-left: 70px;
+    margin-right: 16px;
+}
+
+.search-container .image-search{
+    width: 14px;
+    height: 14px;
+    margin-left: 6px;
+    margin-right: 3px;
+}
+
+.shopping-bag-container{
+    display: flex;
+    margin-right: 11px;
+    align-items: center;
+    border: 1px solid #C4C4C4;
+    border-radius: 10px;
+    padding-right: 4px;
+}
+
+.shopping-bag-container .bag-image{
+    width: 16px;
+    height: 16px;
+    margin: 2px;
+}
+
