@@ -1,0 +1,38 @@
+.section-products-grid{
+    display: flex;
+    flex-direction: column;
+    width: 890px;
+    margin: 0 auto;
+}
+
+.nav-links{
+    display: flex;
+    align-items: center;
+    gap: 11px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.nav-links.-style-buttons{
+    font-family: "Mukta", sans-serif;
+    font-size: 16px;
+    color: #474747;
+    margin: 0;
+}
+
+.nav-links .nav-arrow{
+    transform: rotate(-90deg);
+    width: 8px;
+    height: 8px;
+}
+
+.large-image img{
+    border-radius: 15px;
+    margin-bottom: 15px;
+}
+
+.small-image img {  
+    border-radius: 15px;
+    margin-right: 48px;
+}
+
