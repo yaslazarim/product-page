@@ -1,0 +1,13 @@
+.product-details{
+    display: flex;
+    flex-direction: column;
+    font-family: "Roboto", sans-serif;;
+}
+
+.product-brand{
+    color: #1565C0;
+}
+
+.product-description{
+    font-weight: 300;
+}
