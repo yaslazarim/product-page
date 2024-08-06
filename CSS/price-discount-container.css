@@ -1,0 +1,17 @@
+.price-discount-container{
+    display: flex;
+    align-items: center;
+}
+
+.product-discount-container{
+    display: flex;
+    flex-direction: column;
+}
+
+.product-discount-container .product-discount{
+    color: #29B6F6;
+}
+
+.product-discount-container .product-deal-highlight{
+    color: #474747;
+}
