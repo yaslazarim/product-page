@@ -1,0 +1,21 @@
+.product-price-container{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #DFDFDF;
+    border-radius: 10px;
+    width: 58px;
+    height: 46px;
+    font-weight: 700;
+    margin-right: 10px;
+}
+
+.product-price-container .price-symbol{
+    font-size: 16px;
+    color: #29B6F6;
+}
+
+.product-price-container .product-price{
+    font-size: 32px;
+    color: #1565C0;
+}
