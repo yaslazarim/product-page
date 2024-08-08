@@ -1,0 +1,14 @@
+.shopping-bag-container{
+    display: flex;
+    margin-right: 11px;
+    align-items: center;
+    border: 1px solid #C4C4C4;
+    border-radius: 10px;
+    padding-right: 4px;
+}
+
+.shopping-bag-container .bag-image{
+    width: 16px;
+    height: 16px;
+    margin: 2px;
+}
