@@ -1,0 +1,22 @@
+.quantity-cart-container{
+    display: flex;
+}
+.quantity-control{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 15px;
+    border: 1px solid #C4C4C4;
+    border-radius: 10px;
+    width: 52px;
+    height: 46px;
+}
+
+.quantity-label{
+    color: #7D7D7D;
+}
+
+.product-quantity{
+    font-weight: 600;
+}
