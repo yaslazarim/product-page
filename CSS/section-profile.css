@@ -1,0 +1,49 @@
+.section-profile{
+    display: flex;
+    flex-direction: column;
+    font-family: "Roboto", sans-serif;
+    border-top: 1px solid #DFDFDF;
+    margin: 0 auto;
+}
+
+.profile-card{
+    display: flex;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    align-items: center;
+}
+
+.profile-info{
+    display: flex;
+    align-items: center;
+}
+
+.profile-name{
+    color: #474747;
+    font-size: 21px;
+    margin-left: 10px;
+}
+
+.profile-info img{
+    width: 30px;
+    height: 30px;
+}
+
+.rating-stars{
+    margin-left: 95px;
+}
+
+.testimonial-content{
+    font-size: 14px;
+    margin-left: 35px;
+}
+
+.testimonial-content .testimonial-title{
+    color: #474747;
+    margin-bottom: 10px;
+}
+
+.description-evaluation{
+    color: #C4C4C4;
+    font-weight: 400;
+}

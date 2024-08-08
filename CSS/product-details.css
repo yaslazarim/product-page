@@ -1,12 +1,9 @@
 .product-details{
     display: flex;
     flex-direction: column;
-    position: relative;
-    left: 450px;
-    bottom: 432px;
     font-family: "Roboto", sans-serif;
     margin: 0 auto;
-    width: 890px;
+    margin-top: 51px;
     gap: 12px;
 }
 

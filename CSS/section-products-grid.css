@@ -1,8 +1,8 @@
 .section-products-grid{
     display: flex;
     flex-direction: column;
-    width: 890px;
     margin: 0 auto;
+    margin-right: 42px;
 }
 
 .nav-links{
@@ -29,6 +29,10 @@
 .large-image img{
     border-radius: 15px;
     margin-bottom: 15px;
+}
+
+.small-image{
+    display: inline-flex;
 }
 
 .small-image img {  
