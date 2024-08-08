@@ -1,0 +1,15 @@
+.search-container{
+    display: flex;
+    border: 1px solid #C4C4C4;
+    border-radius: 10px;
+    align-items: center;
+    margin-left: 70px;
+    margin-right: 16px;
+}
+
+.search-container .image-search{
+    width: 14px;
+    height: 14px;
+    margin-left: 6px;
+    margin-right: 3px;
+}
