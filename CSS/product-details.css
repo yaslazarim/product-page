@@ -1,11 +1,23 @@
 .product-details{
     display: flex;
     flex-direction: column;
-    font-family: "Roboto", sans-serif;;
+    position: relative;
+    left: 450px;
+    bottom: 432px;
+    font-family: "Roboto", sans-serif;
+    margin: 0 auto;
+    width: 890px;
+    gap: 12px;
 }
 
 .product-brand{
     color: #1565C0;
+    font-size: 16px;
+}
+
+.product-brand p {
+    display: inline-block;
+    color: #000;
 }
 
 .product-description{
