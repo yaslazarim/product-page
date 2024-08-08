@@ -1,0 +1,16 @@
+.navigation{
+    display: flex;
+    align-items: center;
+}
+
+.navigation img{
+    width: 12px;
+    height: 12px;
+    margin-left: 2px;
+}
+
+.navigation .-buttons{
+    margin-right: 20px;
+    color: #474747;
+    font-size: 20px;
+}
